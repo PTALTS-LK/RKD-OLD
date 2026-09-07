@@ -1,5 +1,7 @@
 # RP2040-based Keyboard Devkit
 
+## 正在开发V2新版本，V1进入维护状态，看心情写新功能 -> [The New V2 RKD](https://github.com/PTALTS-LK/RKD)
+
 **这是一个基于RP2040以及CH9329键鼠芯片的，使用Kicad6.0设计的一个开源音游控制器**
 
 你也能当成一个可编程键盘使用
